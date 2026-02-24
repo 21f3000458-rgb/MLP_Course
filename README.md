@@ -10,6 +10,9 @@ The course focuses on practical implementation of machine learning algorithm usi
 
 ## Table of contents
 
+### Week 0
+* Pandas
+
 ### Week 1
 * Data loading
   * Basic data loading/generation features(load, fetch, make)
